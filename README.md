@@ -1,6 +1,6 @@
 Hello sir,
-I had pushed my repo so many times but it always shoed me this error, and I tended to ignore it assuming the other filles are being push but
-it was not being pushed ever since this error popped out for the first time, and unfortunately the pushes which i made are not being shown in the
+I had pushed my repo so many times but it always shoewed me this error, and I tended to ignore it assuming the other files are being push but
+they were not being pushed ever since this error popped out for the first time, and unfortunately the pushes which i made are not being shown in the
 repo commit history!
 
 remote: Resolving deltas: 100% (27/27), completed with 13 local objects.
